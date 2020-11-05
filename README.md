@@ -1,6 +1,6 @@
 # WeatherApiResponse
 
-WeatherApiResponse is my solution to the task given by LTS for my job application. It uses the JSON [OpenWeather](https://openweathermap.org/) provides to give the desired output.
+WeatherApi is my way of solving the task LTS gave me for my job application and it is an application that will return you a JSON using the [OpenWeather](https://openweathermap.org/) API.
 ## Installation
 
 :todo instalation process
