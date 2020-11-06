@@ -35,5 +35,5 @@ This will return a JSON with the temperature and a brief description of what's t
 
 - [Docker Container](https://hub.docker.com/repository/docker/revenge19/weather-api)
 - [GCP](http://35.226.196.105:8080/weather/barcelona)
-- [Swagger (OpenAPI3 Doc)](https://app.swaggerhub.com/apis/revenge197/WeatherApiResponse/1.0.0)
+- [Swagger (OpenAPI3 Doc)](https://app.swaggerhub.com/apis/reVenge19/WeatherApi/0.1)
 - [Github](https://github.com/reVenge19/weatherapi)
