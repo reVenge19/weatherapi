@@ -38,7 +38,7 @@ public class CityController {
         @RequestMapping(PATH)
         @ResponseBody
         public String getErrorPath() {
-            return "No Mapping Found";
+            return "To recieve a response you need to use the path /weather/'yourcity'";
         }
 
     }
